@@ -1,0 +1,87 @@
+* 100 things todo list  
+1. Lose weight (To 66 KG)
+2. Join a marathon
+3. Buy a new apartment
+4. Write a tech blog
+5. Build a server framework
+6. Join Leetcode contest
+7. Get TOEIC Golden certificate 
+8. Pass JLPT N1
+9. Keep sleep & get up early
+10. Familiar with linux programming
+11. Familiar and realize Unix network programming
+12. Familiar with vim and emacs
+13. Familiar with golang
+14. Join a open source project
+15. Buy nitendo switch
+16. Keep planning in note
+17. Familiar with git  
+18. Familiar with mysql
+19. Double finesse
+20. Use CI/CD in work project
+21. Create myslf business
+22. Keep reading and write feedback in my blog
+23. Do live coding
+24. Play all my game
+25. Write a novel
+26. Modify and maintain my resume & Linkin profile
+27. Learn how to do stock investment
+28. Create a web crawler
+29. Go to HAWAII
+30. Go to OKINAWA
+31. Go to Northern Eruope
+32. Eat puffer fish
+33. Depoly a service in AWS
+34. Get 1000 stars in github
+35. Finish a Mooc 
+36. Learn how to test
+37. Learn how to debug
+38. Sort out my bank account
+39. Buy mini cooper
+40. Review the mathmatic
+41. Join a tech/coding group
+42. Sort out all my mails and books
+43. Build pet project
+44. Idea: auto delete unuse url bookmark
+45. Play microservices
+46. Work in foreign
+47. Be a SOHO worker
+48. Join hackthon
+49. Graduate from mobile game
+50. Try dead sea floating
+51. Make a foreigner friends
+52. Try open-air hot springs
+53. Answer a question in stackoverfloat
+54. Send flowers to my wife
+55. Try mountain climbing
+56. Try moditation
+57. Record fluctuations in physical fitness
+58. Speak third language
+59. Reduce cholesterol
+60. Learn a musical instrument
+61. 
+** Skill list
+| Item | Survey | Take action | Result |
+
+*** Five years plan
+**** Get TOEIC Golden certificate
+*** Three year plan
+*** Year plan
+**** Lost weight to 66 KG
+*** Three month plan
+*** Month plan
+**** TODO Write 4 blog article
+**** 
+*** Week plan
+**** TODO Create first blog article
+**** TODO Finish DT mock Server
+**** TODO Finish mqant client connector
+*** Daily plan
+**** <2018-05-18 Fri>
+***** TODO The first 20 hours: how to learn anything first
+***** 
+
+
+
+
+     
