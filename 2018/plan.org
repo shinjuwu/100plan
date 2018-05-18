@@ -1,3 +1,4 @@
+
 * 100 things todo list  
 1. Lose weight (To 66 KG)
 2. Join a marathon
@@ -73,13 +74,25 @@
 **** TODO Write 4 blog article
 **** 
 *** Week plan
-**** TODO Create first blog article
-**** TODO Finish DT mock Server
-**** TODO Finish mqant client connector
-*** Daily plan
-**** <2018-05-18 Fri>
-***** TODO The first 20 hours: how to learn anything first
+**** <2018-05-18 Fri>-<2018-05-20 Sun>
+***** TODO Create first blog article
+***** TODO Finish DT mock Server
+***** TODO Finish mqant client connector
+**** <2018-05-21 Mon>-<2018-05-27 Sun>
 ***** 
+*** Daily plan
+**** <2018-05-18 Fri> [%]
+***** TODO The first 20 hours: how to learn anything first
+***** TODO Set windows EMACS
+***** TODO Play ps4
+**** <2018-05-19 Sat> [%]
+***** TODO Pokemon community day : Charmander
+***** TODO Mqant client connector
+***** TODO play ps4
+**** <2018-05-20 Sun> [%]
+***** TODO Do next week plan
+***** TODO DT mock Server
+***** TODO Body pump
 
 
 

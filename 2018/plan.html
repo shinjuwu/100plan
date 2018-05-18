@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>plan</title>
+<!-- 2018-05-18 Fri 18:20 -->
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="shinjuwu" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">plan</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#sec-1">1. 100 things todo list</a>
+<ul>
+<li><a href="#sec-1-1">1.1. Skill list</a>
+<ul>
+<li><a href="#sec-1-1-1">1.1.1. Five years plan</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Three year plan</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Year plan</a></li>
+<li><a href="#sec-1-1-4">1.1.4. Three month plan</a></li>
+<li><a href="#sec-1-1-5">1.1.5. Month plan</a></li>
+<li><a href="#sec-1-1-6">1.1.6. Week plan</a></li>
+<li><a href="#sec-1-1-7">1.1.7. Daily plan</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> 100 things todo list</h2>
+<div class="outline-text-2" id="text-1">
+<ol class="org-ol">
+<li>Lose weight (To 66 KG) <i>ppp</i>
+</li>
+<li>Join a marathon
+</li>
+<li>Buy a new apartment
+</li>
+<li>Write a tech blog
+</li>
+<li>Build a server framework
+</li>
+<li>Join Leetcode contest
+</li>
+<li>Get TOEIC Golden certificate 
+</li>
+<li>Pass JLPT N1
+</li>
+<li>Keep sleep &amp; get up early
+</li>
+<li>Familiar with linux programming
+</li>
+<li>Familiar and realize Unix network programming
+</li>
+<li>Familiar with vim and emacs
+</li>
+<li>Familiar with golang
+</li>
+<li>Join a open source project
+</li>
+<li>Buy nitendo switch
+</li>
+<li>Keep planning in note
+</li>
+<li>Familiar with git  
+</li>
+<li>Familiar with mysql
+</li>
+<li>Double finesse
+</li>
+<li>Use CI/CD in work project
+</li>
+<li>Create myslf business
+</li>
+<li>Keep reading and write feedback in my blog
+</li>
+<li>Do live coding
+</li>
+<li>Play all my game
+</li>
+<li>Write a novel
+</li>
+<li>Modify and maintain my resume &amp; Linkin profile
+</li>
+<li>Learn how to do stock investment
+</li>
+<li>Create a web crawler
+</li>
+<li>Go to HAWAII
+</li>
+<li>Go to OKINAWA
+</li>
+<li>Go to Northern Eruope
+</li>
+<li>Eat puffer fish
+</li>
+<li>Depoly a service in AWS
+</li>
+<li>Get 1000 stars in github
+</li>
+<li>Finish a Mooc 
+</li>
+<li>Learn how to test
+</li>
+<li>Learn how to debug
+</li>
+<li>Sort out my bank account
+</li>
+<li>Buy mini cooper
+</li>
+<li>Review the mathmatic
+</li>
+<li>Join a tech/coding group
+</li>
+<li>Sort out all my mails and books
+</li>
+<li>Build pet project
+</li>
+<li>Idea: auto delete unuse url bookmark
+</li>
+<li>Play microservices
+</li>
+<li>Work in foreign
+</li>
+<li>Be a SOHO worker
+</li>
+<li>Join hackthon
+</li>
+<li>Graduate from mobile game
+</li>
+<li>Try dead sea floating
+</li>
+<li>Make a foreigner friends
+</li>
+<li>Try open-air hot springs
+</li>
+<li>Answer a question in stackoverfloat
+</li>
+<li>Send flowers to my wife
+</li>
+<li>Try mountain climbing
+</li>
+<li>Try moditation
+</li>
+<li>Record fluctuations in physical fitness
+</li>
+<li>Speak third language
+</li>
+<li>Reduce cholesterol
+</li>
+<li>Learn a musical instrument
+</li>
+<li></li>
+</ol>
+</div>
+<div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> Skill list</h3>
+<div class="outline-text-3" id="text-1-1">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+
+<col  class="left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="left">Item</td>
+<td class="left">Survey</td>
+<td class="left">Take action</td>
+<td class="left">Result</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<div id="outline-container-sec-1-1-1" class="outline-4">
+<h4 id="sec-1-1-1"><span class="section-number-4">1.1.1</span> Five years plan</h4>
+<div class="outline-text-4" id="text-1-1-1">
+</div><ol class="org-ol"><li><a id="sec-1-1-1-1" name="sec-1-1-1-1"></a>Get TOEIC Golden certificate<br  /></li></ol>
+</div>
+<div id="outline-container-sec-1-1-2" class="outline-4">
+<h4 id="sec-1-1-2"><span class="section-number-4">1.1.2</span> Three year plan</h4>
+</div>
+<div id="outline-container-sec-1-1-3" class="outline-4">
+<h4 id="sec-1-1-3"><span class="section-number-4">1.1.3</span> Year plan</h4>
+<div class="outline-text-4" id="text-1-1-3">
+</div><ol class="org-ol"><li><a id="sec-1-1-3-1" name="sec-1-1-3-1"></a>Lost weight to 66 KG<br  /></li></ol>
+</div>
+<div id="outline-container-sec-1-1-4" class="outline-4">
+<h4 id="sec-1-1-4"><span class="section-number-4">1.1.4</span> Three month plan</h4>
+</div>
+<div id="outline-container-sec-1-1-5" class="outline-4">
+<h4 id="sec-1-1-5"><span class="section-number-4">1.1.5</span> Month plan</h4>
+<div class="outline-text-4" id="text-1-1-5">
+</div><ol class="org-ol"><li><a id="sec-1-1-5-1" name="sec-1-1-5-1"></a><span class="todo TODO">TODO</span> Write 4 blog article<br  /></li>
+<li><a id="sec-1-1-5-2" name="sec-1-1-5-2"></a><br  /></li></ol>
+</div>
+<div id="outline-container-sec-1-1-6" class="outline-4">
+<h4 id="sec-1-1-6"><span class="section-number-4">1.1.6</span> Week plan</h4>
+<div class="outline-text-4" id="text-1-1-6">
+</div><ol class="org-ol"><li><a id="sec-1-1-6-1" name="sec-1-1-6-1"></a><span class="todo TODO">TODO</span> Create first blog article<br  /></li>
+<li><a id="sec-1-1-6-2" name="sec-1-1-6-2"></a><span class="todo TODO">TODO</span> Finish DT mock Server<br  /></li>
+<li><a id="sec-1-1-6-3" name="sec-1-1-6-3"></a><span class="todo TODO">TODO</span> Finish mqant client connector<br  /></li></ol>
+</div>
+<div id="outline-container-sec-1-1-7" class="outline-4">
+<h4 id="sec-1-1-7"><span class="section-number-4">1.1.7</span> Daily plan</h4>
+<div class="outline-text-4" id="text-1-1-7">
+</div><ol class="org-ol"><li><a id="sec-1-1-7-1" name="sec-1-1-7-1"></a><span class="timestamp-wrapper"><span class="timestamp">&lt;2018-05-18 Fri&gt;</span></span><br  /><ol class="org-ol"><li><a id="sec-1-1-7-1-1" name="sec-1-1-7-1-1"></a><span class="todo TODO">TODO</span> The first 20 hours: how to learn anything first<br  /></li>
+<li><a id="sec-1-1-7-1-2" name="sec-1-1-7-1-2"></a>&#xa0;&#xa0;&#xa0;<span class="tag"><span class=""></span>&#xa0;<span class="qqq">qqq</span>&#xa0;<span class=""></span></span><br  /></li></ol>
+</li></ol>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: shinjuwu</p>
+<p class="date">Created: 2018-05-18 Fri 18:20</p>
+<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.5.1 (<a href="http://orgmode.org">Org</a> mode 8.2.10)</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
