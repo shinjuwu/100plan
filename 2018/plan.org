@@ -81,9 +81,13 @@
 **** <2018-05-21 Mon>-<2018-05-27 Sun>
 ***** 
 *** Daily plan
-**** <2018-05-18 Fri> [%]
-***** TODO The first 20 hours: how to learn anything first
-***** TODO Set windows EMACS
+**** <2018-05-18 Fri> [66%]
+***** DONE The first 20 hours: how to learn anything first
+      CLOSED: [2018-05-19 Sat 01:20]
+      - State "DONE"       from "STARTED"    [2018-05-19 Sat 01:20]
+***** DONE Set windows EMACS
+      CLOSED: [2018-05-19 Sat 00:54]
+      - State "DONE"       from "TODO"       [2018-05-19 Sat 00:54]
 ***** TODO Play ps4
 **** <2018-05-19 Sat> [%]
 ***** TODO Pokemon community day : Charmander
@@ -93,7 +97,7 @@
 ***** TODO Do next week plan
 ***** TODO DT mock Server
 ***** TODO Body pump
-
+      
 
 
 
