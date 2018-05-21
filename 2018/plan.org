@@ -43,7 +43,7 @@
 41. Join a tech/coding group
 42. Sort out all my mails and books
 43. Build pet project
-44. Idea: auto delete unuse url bookmark
+44. Idea: auto delete invalid url bookmark
 45. Play microservices
 46. Work in foreign
 47. Be a SOHO worker
@@ -122,17 +122,11 @@
 ***** DONE 
 Body pump
       CLOSED: [2018-05-20 Sun 23:36]
-      - State "DONE"       from "TODO"       [2018-05-20 Sun 23:36]
-***** 
-***** 
-***** 
-***** 
+      - State "DONE"       from "TODO"       [2018-05-20 Sun 23:36] 
 
-      
-
-
-
-**** <2018-05-21 Mon> [%]
+**** <2018-05-21 Mon> [33%]
 ***** TODO Practice english skill
-***** TODO Finsh Account Server (Account sent func)
-***** TODO Read Aws seeting book
+***** DONE Finsh Account Server (Check With DT userInfo)
+      CLOSED: [2018-05-21 Mon 17:45]
+      - State "DONE"       from "TODO"       [2018-05-21 Mon 17:45]
+***** TODO Read Aws setting book
