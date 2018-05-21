@@ -1,4 +1,3 @@
-
 * 100 things todo list  
 1. Lose weight (To 66 KG)
 2. Join a marathon
@@ -82,51 +81,49 @@
 **** 
 
 * Week plan
-**** <2018-05-18 Fri>-<2018-05-20 Sun>
-***** TODO Create first blog article
-***** TODO Finish DT mock Server
-***** TODO Finish mqant client connector
-**** <2018-05-21 Mon>-<2018-05-27 Sun>
-***** TODO Finsh Work schedule
-***** TODO Finish rutine work
-***** TODO Finish Aws setting book 
-
+** <2018-05-18 Fri>-<2018-05-20 Sun> [%] 
+*** TODO Create first blog article
+*** TODO Finish DT mock Server
+*** TODO Finish mqant client connector
+** <2018-05-21 Mon>-<2018-05-27 Sun> [%]
+*** TODO Finsh Work schedule
+*** TODO Finish rutine work
+*** TODO Finish Aws setting book 
 * Daily plan
-**** <2018-05-18 Fri> [100%]
-***** DONE The first 20 hours: how to learn anything first
+** <2018-05-18 Fri> [100%]
+*** DONE The first 20 hours: how to learn anything first
       CLOSED: [2018-05-19 Sat 01:20]
       - State "DONE"       from "STARTED"    [2018-05-19 Sat 01:20]
-***** DONE Set windows EMACS
+*** DONE Set windows EMACS
       CLOSED: [2018-05-19 Sat 00:54]
       - State "DONE"       from "TODO"       [2018-05-19 Sat 00:54]
-***** DONE Play ps4
+*** DONE Play ps4
       CLOSED: [2018-05-20 Sun 01:51]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 01:51]
-**** <2018-05-19 Sat> [66%]
-***** DONE Pokemon community day : Charmander
+** <2018-05-19 Sat> [66%]
+*** DONE Pokemon community day : Charmander
       CLOSED: [2018-05-20 Sun 01:51]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 01:51]
-***** WAITING Mqant client connector
+*** WAITING Mqant client connector
       - State "WAITING"    from "TODO"       [2018-05-20 Sun 01:52] \\
         Movo to <2018-05-20 Sun>
-***** DONE play ps4
+*** DONE play ps4
       CLOSED: [2018-05-20 Sun 23:46]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 23:46]
-**** <2018-05-20 Sun> [66%]
-***** DONE Do next week plan
+** <2018-05-20 Sun> [66%]
+*** DONE Do next week plan
       CLOSED: [2018-05-20 Sun 23:52]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 23:52]
-***** WAITING DT mock Server
+*** WAITING DT mock Server
       - State "WAITING"    from "TODO"       [2018-05-20 Sun 23:44] \\
         Do in <2018-05-21 Mon>
-***** DONE 
-Body pump
+*** DONE Body pump
       CLOSED: [2018-05-20 Sun 23:36]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 23:36] 
 
-**** <2018-05-21 Mon> [33%]
-***** TODO Practice english skill
-***** DONE Finsh Account Server (Check With DT userInfo)
+** <2018-05-21 Mon> [33%]
+*** TODO Practice english skill
+*** DONE Finsh Account Server (Check With DT userInfo)
       CLOSED: [2018-05-21 Mon 17:45]
       - State "DONE"       from "TODO"       [2018-05-21 Mon 17:45]
-***** TODO Read Aws setting book
+*** TODO Read Aws setting book
