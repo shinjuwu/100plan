@@ -59,7 +59,7 @@
 58. Speak third language
 59. Reduce cholesterol
 60. Learn a musical instrument
-61. 
+61. Improve diarrhea
 * Skill list
 ** TODO AWS
 
@@ -121,9 +121,25 @@
       CLOSED: [2018-05-20 Sun 23:36]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 23:36] 
 
-** <2018-05-21 Mon> [33%]
-*** TODO Practice english skill
+** <2018-05-21 Mon> [100%]
+*** DONE Practice english skill
+    CLOSED: [2018-05-22 Tue 10:44]
+    - State "DONE"       from "TODO"       [2018-05-22 Tue 10:44]
 *** DONE Finsh Account Server (Check With DT userInfo)
-      CLOSED: [2018-05-21 Mon 17:45]
+    
+  CLOSED: [2018-05-21 Mon 17:45]
       - State "DONE"       from "TODO"       [2018-05-21 Mon 17:45]
-*** TODO Read Aws setting book
+*** DONE Read Aws setting book
+    CLOSED: [2018-05-22 Tue 10:44]
+    - State "DONE"       from "TODO"       [2018-05-22 Tue 10:44]
+** <2018-05-22 Tue> [66%]
+*** DONE Finish Account server test with DT mock server
+    CLOSED: [2018-05-22 Tue 17:13]
+    - State "DONE"       from "TODO"       [2018-05-22 Tue 17:13]
+*** TODO Finish daily rutine work
+*** DONE Create AWS account and try it
+    CLOSED: [2018-05-22 Tue 18:35]
+    - State "DONE"       from "TODO"       [2018-05-22 Tue 18:35]
+** <2018-05-24 Thu> [0%]
+*** TODO Set credit card automatic payment
+*** TODO Get China Trust FInancial Card
