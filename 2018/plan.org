@@ -60,35 +60,59 @@
 59. Reduce cholesterol
 60. Learn a musical instrument
 61. Improve diarrhea
+62. 
 * Skill list
-** TODO AWS
-
+** TODO AWS introduction
+| item             | survey     | progess                      | result |
+|------------------+------------+------------------------------+--------|
+| AWS introduction | officesite | Create account in officesite | done   |
+|                  | book       | Create EC2 instance          | done   |
+** TODO Linux operation
+** TODO Docker
+** TODO Drone
+** TODO Git
+** TODO Mysql
+** TODO UNIX Network Programming
+** TODO GOlang
+* Book list
+** TODO Unix Network Programming
 * Five years plan
 **** Get TOEIC Golden certificate
 
 * Three year plan
 
-* Year plan
-
-**** Lost weight to 66 KG
+* Year plan [%]
+** TODO Lost weight to 66 KG #1
+** TODO Write a tech blog #4
+** TODO Familiar with golang #13
+** TODO Familiar with mysql #18
 * Three month plan
 * Month plan
-**** PROJECT Rutine work
-     - State "PROJECT"    from ""           [2018-05-21 Mon 00:01] \\
+** PROJECT Rutine work
+     - State "PROJECT"    from ""           [2018-05-21 Mon 00:01] 
        RUtine work:
        +[]blog article
        +[]English practice
-**** 
-
+       +[]Do excercise
+** TODO 20 hours skill
+** TODO 
 * Week plan
-** <2018-05-18 Fri>-<2018-05-20 Sun> [%] 
+** <2018-05-18 Fri>-<2018-05-20 Sun> [33%] 
 *** TODO Create first blog article
-*** TODO Finish DT mock Server
+*** DONE Finish DT mock Server
+    CLOSED: [2018-05-23 Wed 11:20]
+    - State "DONE"       from "TODO"       [2018-05-23 Wed 11:20]
 *** TODO Finish mqant client connector
 ** <2018-05-21 Mon>-<2018-05-27 Sun> [%]
 *** TODO Finsh Work schedule
++[]DT mocker server
++[]Encapsulation Client Connector
++[]Finich Login cycle
 *** TODO Finish rutine work
-*** TODO Finish Aws setting book 
++[]Blog article
++[]Excercise
++[]Practice English
+**** TODO  
 * Daily plan
 ** <2018-05-18 Fri> [100%]
 *** DONE The first 20 hours: how to learn anything first
@@ -110,11 +134,13 @@
 *** DONE play ps4
       CLOSED: [2018-05-20 Sun 23:46]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 23:46]
-** <2018-05-20 Sun> [66%]
+** <2018-05-20 Sun> [100%]
 *** DONE Do next week plan
       CLOSED: [2018-05-20 Sun 23:52]
       - State "DONE"       from "TODO"       [2018-05-20 Sun 23:52]
-*** WAITING DT mock Server
+*** DONE DT mock Server
+    CLOSED: [2018-05-23 Wed 11:13]
+    - State "DONE"       from "WAITING"    [2018-05-23 Wed 11:13]
       - State "WAITING"    from "TODO"       [2018-05-20 Sun 23:44] \\
         Do in <2018-05-21 Mon>
 *** DONE Body pump
@@ -140,6 +166,15 @@
 *** DONE Create AWS account and try it
     CLOSED: [2018-05-22 Tue 18:35]
     - State "DONE"       from "TODO"       [2018-05-22 Tue 18:35]
+** <2018-05-23 Wed> [33%]
+*** DONE Finish login function
+    CLOSED: [2018-05-23 Wed 18:16]
+    - State "DONE"       from "TODO"       [2018-05-23 Wed 18:16]
+*** TODO Encapsulation client connector
+*** TODO Take the Clean Architure
 ** <2018-05-24 Thu> [0%]
 *** TODO Set credit card automatic payment
-*** TODO Get China Trust FInancial Card
+*** TODO Get China Trust Financial Card
+*** TODO Build GOS test robot
+*** TODO Linux operation
+*** TODO Settint DT mock server in aws EC2
