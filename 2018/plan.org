@@ -166,15 +166,21 @@
 *** DONE Create AWS account and try it
     CLOSED: [2018-05-22 Tue 18:35]
     - State "DONE"       from "TODO"       [2018-05-22 Tue 18:35]
-** <2018-05-23 Wed> [33%]
+** <2018-05-23 Wed> [66%]
 *** DONE Finish login function
     CLOSED: [2018-05-23 Wed 18:16]
     - State "DONE"       from "TODO"       [2018-05-23 Wed 18:16]
 *** TODO Encapsulation client connector
-*** TODO Take the Clean Architure
-** <2018-05-24 Thu> [0%]
+*** DONE Take the Clean Architure
+    CLOSED: [2018-05-24 Thu 17:43]
+    - State "DONE"       from "TODO"       [2018-05-24 Thu 17:43]
+** <2018-05-24 Thu> [40%]
 *** TODO Set credit card automatic payment
-*** TODO Get China Trust Financial Card
+*** DONE Get China Trust Financial Card
+    CLOSED: [2018-05-24 Thu 17:42]
+    - State "DONE"       from "TODO"       [2018-05-24 Thu 17:42]
 *** TODO Build GOS test robot
-*** TODO Linux operation
+*** DONE Linux operation
+    CLOSED: [2018-05-24 Thu 17:42]
+    - State "DONE"       from "TODO"       [2018-05-24 Thu 17:42]
 *** TODO Settint DT mock server in aws EC2
