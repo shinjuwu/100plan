@@ -184,3 +184,10 @@
     CLOSED: [2018-05-24 Thu 17:42]
     - State "DONE"       from "TODO"       [2018-05-24 Thu 17:42]
 *** TODO Settint DT mock server in aws EC2
+** <2018-05-25 Fri> [0%]
+*** TODO Play new mobile game
+*** TODO Watch Japanese drama with my wife
+*** TODO Clean plan in this weeks
+*** TODO Income tax declaration
+** <2018-05-26 Sat> [%]
+*** TODO 
