@@ -88,31 +88,26 @@
 ** TODO Familiar with mysql #18
 * Three month plan
 * Month plan
-** PROJECT Rutine work
-     - State "PROJECT"    from ""           [2018-05-21 Mon 00:01] 
-       RUtine work:
-       +[]blog article
-       +[]English practice
-       +[]Do excercise
-** TODO 20 hours skill
-** TODO 
+** <2018-06-01 Fri>-<2018-06-30 Sat>
+*** TODO Rutine work progoss
+*** TODO 20 hours skill
+*** TODO Buy Nitendo Switch
+*** TODO Maintainance List
+*** TODO Pet Project
 * Week plan
 ** <2018-05-18 Fri>-<2018-05-20 Sun> [33%] 
 *** TODO Create first blog article
 *** DONE Finish DT mock Server
     CLOSED: [2018-05-23 Wed 11:20]
     - State "DONE"       from "TODO"       [2018-05-23 Wed 11:20]
-*** TODO Finish mqant client connector
-** <2018-05-21 Mon>-<2018-05-27 Sun> [%]
+*** TODO Finish 
 *** TODO Finsh Work schedule
 +[]DT mocker server
 +[]Encapsulation Client Connector
 +[]Finich Login cycle
 *** TODO Finish rutine work
 +[]Blog article
-+[]Excercise
-+[]Practice English
-**** TODO  
++[]Exc
 * Daily plan
 ** <2018-05-18 Fri> [100%]
 *** DONE The first 20 hours: how to learn anything first
