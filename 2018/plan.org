@@ -89,10 +89,23 @@
 * Three month plan
 * Month plan
 ** <2018-06-01 Fri>-<2018-06-30 Sat>
-*** TODO Rutine work progoss
-*** TODO 20 hours skill
+*** PROJECT Rutine work progoss
+    - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:25] \\
+      +English practice 
+      +Take execurse & diet
+      +Write blog
+*** PROJECT 20 hours skill
+    - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:24] \\
+      +Familiar with Linux operation
 *** TODO Buy Nitendo Switch
-*** TODO Maintainance List
+*** PROJECT Maintainance List 
+    - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:27] \\
+      +Set up bank automatic transfer
 *** TODO Pet Project
 * Week plan
 * Daily plan
+** <2018-06-01 Fri> [0%]
+*** TODO Practice Linux Operation
+*** TODO Practice English speaking
+*** TODO Setting blog
+
