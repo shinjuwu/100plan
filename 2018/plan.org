@@ -60,7 +60,8 @@
 59. Reduce cholesterol
 60. Learn a musical instrument
 61. Improve diarrhea
-62. 
+62. Familiar with Linux operation
+63. 
 * Skill list
 ** TODO AWS introduction
 | item             | survey     | progess                      | result |
@@ -77,19 +78,23 @@
 * Book list
 ** TODO Unix Network Programming
 * Five years plan
-**** Get TOEIC Golden certificate
-
+** Get TOEIC Golden certificate
 * Three year plan
-
-* Year plan [%]
+* Year plan [0%]
 ** TODO Lost weight to 66 KG #1
 ** TODO Write a tech blog #4
 ** TODO Familiar with golang #13
 ** TODO Familiar with mysql #18
+** TODO Familiar with Linux
 * Three month plan
+** <2018-06-01 Fri>-<2018-08-31 Fri>
+*** 
 * Month plan
-** <2018-06-01 Fri>-<2018-06-30 Sat>
-*** PROJECT Rutine work progoss
+** June<2018-06-01 Fri>-<2018-06-30 Sat> [%]
+*** PROJECT Maintainance List 
+    - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:27] \\
+      +Set up bank automatic transfer
+*** PROJECT Routine work progoss
     - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:25] \\
       +English practice 
       +Take execurse & diet
@@ -97,15 +102,30 @@
 *** PROJECT 20 hours skill
     - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:24] \\
       +Familiar with Linux operation
+*** PROJECT Pet Project
+    - State "PROJECT"    from "TODO"       [2018-06-01 Fri 16:08] \\
+      +Web server (DT mocker server)
+      +Realized net/http & Web server coding
+      +Depoly in AWS EC2 server
+      +Write the experience on my blog
 *** TODO Buy Nitendo Switch
-*** PROJECT Maintainance List 
-    - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:27] \\
-      +Set up bank automatic transfer
-*** TODO Pet Project
 * Week plan
+** Week1:<2018-06-01 Fri>-<2018-06-02 Sat> [%]
+*** TODO Take exercise 
+*** TODO Setting blog
+*** TODO English study plan
+*** TODO Linux Operation plan
+** Week2:<2018-06-03 Sun>-<2018-06-09 Sat>
+** Week3:<2018-06-10 Sun>-<2018-06-16 Sat>
+** Week4:<2018-06-17 Sun>-<2018-06-23 Sat>
+** Week5:<2018-06-24 Sun>-<2018-06-30 Sat>
 * Daily plan
 ** <2018-06-01 Fri> [0%]
 *** TODO Practice Linux Operation
 *** TODO Practice English speaking
 *** TODO Setting blog
+** <2018-06-02 Sat> [0%]
+*** TODO Take exercise
+*** TODO English study plan
+*** TODO Linux operation Plan
 
