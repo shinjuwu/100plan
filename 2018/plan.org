@@ -137,6 +137,8 @@
 *** TODO Linux operation Plan
 ** <2018-06-04 Mon> [0%]
 *** TODO Update plan list
+*** TODO Sleep early
+*** TODO Mobile Game plan
 ** <2018-06-05 Tue> [0%]
 *** TODO Create FGO Robot
 *** TODO Read an English article
