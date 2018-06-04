@@ -138,4 +138,7 @@
 ** <2018-06-04 Mon> [0%]
 *** TODO Update plan list
 ** <2018-06-05 Tue> [0%]
-*** TODO 
+*** TODO Create FGO Robot
+*** TODO Read an English article
+*** TODO Read net/http relate information
+*** TODO Read 1 chapter of Linux
