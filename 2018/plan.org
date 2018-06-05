@@ -150,3 +150,7 @@
 *** DONE Read 1 chapter of Linux
     CLOSED: [2018-06-05 Tue 17:27]
     - State "DONE"       from "TODO"       [2018-06-05 Tue 17:27]
+** <2018-06-06 Wed> [0%]
+*** TODO Set neo one server
+*** TODO English Practice
+*** TODO Linux Practice
