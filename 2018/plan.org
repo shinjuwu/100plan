@@ -139,8 +139,14 @@
 *** TODO Update plan list
 *** TODO Sleep early
 *** TODO Mobile Game plan
-** <2018-06-05 Tue> [0%]
-*** TODO Create FGO Robot
+** <2018-06-05 Tue> [75%]
+*** DONE Create FGO Robot
+    CLOSED: [2018-06-05 Tue 11:15]
+    - State "DONE"       from "TODO"       [2018-06-05 Tue 11:15]
 *** TODO Read an English article
-*** TODO Read net/http relate information
-*** TODO Read 1 chapter of Linux
+*** DONE Read net/http relate information
+    CLOSED: [2018-06-05 Tue 16:00]
+    - State "DONE"       from "TODO"       [2018-06-05 Tue 16:00]
+*** DONE Read 1 chapter of Linux
+    CLOSED: [2018-06-05 Tue 17:27]
+    - State "DONE"       from "TODO"       [2018-06-05 Tue 17:27]
