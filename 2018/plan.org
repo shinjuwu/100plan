@@ -150,7 +150,14 @@
 *** DONE Read 1 chapter of Linux
     CLOSED: [2018-06-05 Tue 17:27]
     - State "DONE"       from "TODO"       [2018-06-05 Tue 17:27]
-** <2018-06-06 Wed> [0%]
-*** TODO Set neo one server
+** <2018-06-06 Wed> [75%]
+*** CANCELLED Set neo one server
+    CLOSED: [2018-06-06 Wed 17:45]
+    - State "CANCELLED"  from "TODO"       [2018-06-06 Wed 17:45]
 *** TODO English Practice
-*** TODO Linux Practice
+*** DONE Linux Practice
+    CLOSED: [2018-06-06 Wed 18:18]
+    - State "DONE"       from "TODO"       [2018-06-06 Wed 18:18]
+*** DONE Session manager realize
+    CLOSED: [2018-06-06 Wed 17:46]
+    - State "DONE"       from "TODO"       [2018-06-06 Wed 17:46]
