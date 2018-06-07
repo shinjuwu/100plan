@@ -161,3 +161,8 @@
 *** DONE Session manager realize
     CLOSED: [2018-06-06 Wed 17:46]
     - State "DONE"       from "TODO"       [2018-06-06 Wed 17:46]
+    - 
+** <2018-06-07 Thu> [0%]
+*** TODO Linux practice
+*** TODO English Practice
+
