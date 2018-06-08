@@ -93,7 +93,7 @@
 ** June<2018-06-01 Fri>-<2018-06-30 Sat> [%]
 *** PROJECT Maintainance List 
     - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:27] \\
-      +Set up bank automatic transfer
+      +[x]Set up bank automatic transfer
 *** PROJECT Routine work progoss
     - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:25] \\
       +English practice 
