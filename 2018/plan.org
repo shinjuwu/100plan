@@ -123,7 +123,9 @@
 *** TODO Practice English
 *** TODO Practice Linux Skill
 *** TODO Build DT mocker Server
-** Week3:<2018-06-10 Sun>-<2018-06-16 Sat>
+** Week3:<2018-06-10 Sun>-<2018-06-16 Sat> [0%]
+*** TODO Take exercise
+*** TODO 
 ** Week4:<2018-06-17 Sun>-<2018-06-23 Sat>
 ** Week5:<2018-06-24 Sun>-<2018-06-30 Sat>
 * Daily plan
