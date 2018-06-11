@@ -117,15 +117,18 @@
 *** TODO Setting blog
 *** TODO English study plan
 *** TODO Linux Operation plan
-** Week2:<2018-06-03 Sun>-<2018-06-09 Sat> [0%]
-*** TODO Take exercuse
+** Week2:<2018-06-03 Sun>-<2018-06-09 Sat> [20%]
+*** DONE Take exercise
+    CLOSED: [2018-06-11 Mon 16:36]
+    - State "DONE"       from "TODO"       [2018-06-11 Mon 16:36]
 *** TODO Write a blog article
 *** TODO Practice English
 *** TODO Practice Linux Skill
 *** TODO Build DT mocker Server
 ** Week3:<2018-06-10 Sun>-<2018-06-16 Sat> [0%]
 *** TODO Take exercise
-*** TODO 
+*** TODO Practice English
+*** TODO Build Server environment
 ** Week4:<2018-06-17 Sun>-<2018-06-23 Sat>
 ** Week5:<2018-06-24 Sun>-<2018-06-30 Sat>
 * Daily plan
@@ -167,4 +170,7 @@
 ** <2018-06-07 Thu> [0%]
 *** TODO Linux practice
 *** TODO English Practice
-
+** <2018-06-11 Mon> [0%]
+*** TODO Take a rest
+*** TODO Plan works of the week
+*** TODO 
