@@ -173,4 +173,7 @@
 ** <2018-06-11 Mon> [0%]
 *** TODO Take a rest
 *** TODO Plan works of the week
-*** TODO 
+**** TODO
+** <2018-06-13 Wed> [0%]
+*** TODO CSS
+*** TODO jQuary
