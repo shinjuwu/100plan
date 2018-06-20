@@ -90,7 +90,7 @@
 ** <2018-06-01 Fri>-<2018-08-31 Fri>
 *** 
 * Month plan
-** June<2018-06-01 Fri>-<2018-06-30 Sat> [%]
+** June<2018-06-01 Fri>-<2018-06-30 Sat> [20%]
 *** PROJECT Maintainance List 
     - State "PROJECT"    from "TODO"       [2018-06-01 Fri 01:27] \\
       +[x]Set up bank automatic transfer
@@ -108,7 +108,9 @@
       +Realized net/http & Web server coding
       +Depoly in AWS EC2 server
       +Write the experience on my blog
-*** TODO Buy Nitendo Switch
+*** DONE Buy Nitendo Switch
+    CLOSED: [2018-06-20 Wed 14:26]
+    - State "DONE"       from "TODO"       [2018-06-20 Wed 14:26]
 * Week plan
 ** Week1:<2018-06-01 Fri>-<2018-06-02 Sat> [25%]
 *** DONE Take exercise 
@@ -131,51 +133,15 @@
 *** TODO Build Server environment
 ** Week4:<2018-06-17 Sun>-<2018-06-23 Sat>
 ** Week5:<2018-06-24 Sun>-<2018-06-30 Sat>
-* Daily plan
-** <2018-06-01 Fri> [0%]
-*** TODO Practice Linux Operation
-*** TODO Practice English speaking
-*** TODO Setting blog
-** <2018-06-02 Sat> [0%]
-*** TODO Take exercise
-*** TODO English study plan
-*** TODO Linux operation Plan
-** <2018-06-04 Mon> [0%]
-*** TODO Update plan list
-*** TODO Sleep early
-*** TODO Mobile Game plan
-** <2018-06-05 Tue> [75%]
-*** DONE Create FGO Robot
-    CLOSED: [2018-06-05 Tue 11:15]
-    - State "DONE"       from "TODO"       [2018-06-05 Tue 11:15]
-*** TODO Read an English article
-*** DONE Read net/http relate information
-    CLOSED: [2018-06-05 Tue 16:00]
-    - State "DONE"       from "TODO"       [2018-06-05 Tue 16:00]
-*** DONE Read 1 chapter of Linux
-    CLOSED: [2018-06-05 Tue 17:27]
-    - State "DONE"       from "TODO"       [2018-06-05 Tue 17:27]
-** <2018-06-06 Wed> [75%]
-*** CANCELLED Set neo one server
-    CLOSED: [2018-06-06 Wed 17:45]
-    - State "CANCELLED"  from "TODO"       [2018-06-06 Wed 17:45]
-*** TODO English Practice
-*** DONE Linux Practice
-    CLOSED: [2018-06-06 Wed 18:18]
-    - State "DONE"       from "TODO"       [2018-06-06 Wed 18:18]
-*** DONE Session manager realize
-    CLOSED: [2018-06-06 Wed 17:46]
-    - State "DONE"       from "TODO"       [2018-06-06 Wed 17:46]
-    - 
-** <2018-06-07 Thu> [0%]
-*** TODO Linux practice
-*** TODO English Practice
-** <2018-06-11 Mon> [0%]
-*** TODO Take a rest
-*** TODO Plan works of the week
-**** TODO
-** <2018-06-13 Wed> [0%]
-*** TODO CSS
-*** TODO jQuary
-** <2018-06-15 Fri> [0%]
-*** TODO 
+
+
+
+
+
+
+
+
+
+
+
+
