@@ -41,7 +41,7 @@
 40. Review the mathmatic
 41. Join a tech/coding group
 42. Sort out all my mails and books
-43. Build pet project
+43. Build side project
 44. Idea: auto delete invalid url bookmark
 45. Play microservices
 46. Work in foreign
